@@ -118,6 +118,32 @@ Markdown
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login
+
+![Login](login.jpeg)
+
+### 📝 Create Account
+
+![Create Account](Create-Account.jpeg)
+
+### 🏠 Dashboard
+
+![Dashboard](dashboard.jpeg)
+
+### 🔍 Disease Detection
+
+![Disease Detection](disease-detection.jpeg)
+
+### ⛓️ Blockchain Verification
+
+![Blockchain Verification](blockchain-verification.jpeg)
+
+### 💬 AI Medical Chatbot
+
+![AI Medical Chatbot](chatbot.jpeg)
+
 # 🏗️ System Architecture
 
 ```text
