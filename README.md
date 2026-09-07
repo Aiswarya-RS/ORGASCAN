@@ -74,48 +74,6 @@ An AI-powered chatbot provides users with additional healthcare-related informat
 
 The system provides a web interface through which users can access the various healthcare features.
 
-Markdown
-
-## 📸 Screenshots
-
-### 🏠 Dashboard
-
-<p align="center">
-  <img src="screenshots/dashboard.png" width="900"/>
-</p>
-
----
-
-### 🔍 Disease Detection
-
-<p align="center">
-  <img src="screenshots/disease-detection.png" width="900"/>
-</p>
-
----
-
-### 📋 Detection Results
-
-<p align="center">
-  <img src="screenshots/detection-result.png" width="900"/>
-</p>
-
----
-
-### 🔐 Blockchain Verification
-
-<p align="center">
-  <img src="screenshots/blockchain-verification.png" width="900"/>
-</p>
-
----
-
-### 💬 AI Medical Chatbot
-
-<p align="center">
-  <img src="screenshots/chatbot.png" width="900"/>
-</p>
-
 ---
 
 ## 📸 Screenshots
