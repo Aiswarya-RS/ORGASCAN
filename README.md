@@ -80,7 +80,7 @@ The system provides a web interface through which users can access the various h
 
 ### 🔐 Login
 
-![Login](login.jpeg)
+![Login](Login.jpeg)
 
 ### 📝 Create Account
 
